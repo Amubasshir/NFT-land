@@ -1,0 +1,12 @@
+.absolute-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.max-width {
+  width: 80%;
+  margin: auto;
+}
+.cur-po {
+  cursor: pointer;
+}
