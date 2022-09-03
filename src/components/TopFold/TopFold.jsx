@@ -24,16 +24,16 @@ const TopFold = () => {
         </div>
         <div className="tf-left-infoStats">
           <div className="tf-is-infoItems absolute-center">
-            <div className="tf-infoItem-count">100k+</div>
-            <div className="tf-infoItem-label">Collection</div>
+            <div className="tf-infoItem-count"></div>
+            <div className="tf-infoItem-label"></div>
           </div>
           <div className="tf-is-infoItems absolute-center">
-            <div className="tf-infoItem-count">17k+</div>
-            <div className="tf-infoItem-label">Artists</div>
+            <div className="tf-infoItem-count"></div>
+            <div className="tf-infoItem-label"></div>
           </div>
           <div className="tf-is-infoItems absolute-center">
-            <div className="tf-infoItem-count">470k+</div>
-            <div className="tf-infoItem-label">Community</div>
+            <div className="tf-infoItem-count"></div>
+            <div className="tf-infoItem-label"></div>
           </div>
         </div>
       </div>
