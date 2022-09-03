@@ -1,0 +1,18 @@
+.button {
+  padding: 10px 50px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 60px;
+  width: max-content;
+  cursor: pointer;
+}
+.primary-btn {
+  color: var(--white);
+  background-color: var(--btn-bg);
+  text-transform: uppercase;
+}
+.secondary-btn {
+  /* border: 1.5px solid var(--white); */
+  border: 1.5px solid rgb(156, 156, 156);
+  text-transform: uppercase;
+}
