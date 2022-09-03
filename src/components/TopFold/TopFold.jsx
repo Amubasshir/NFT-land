@@ -7,8 +7,8 @@ const TopFold = () => {
     <div className="topfold absolute-center">
       <div className="tf-left">
         <div className="tf-heading">
-          Discover Collect & Sell{' '}
-          <span className="heading-gradient">Extraordinary</span> NFTs
+          Discover Collect <br /> & Sell <br /> <span>Extraordinary</span>{' '}
+          <span className="heading-gradient">NFT...</span>
         </div>
         <div className="tf-description">
           Enjoy the newest collection of most valuable NFTs.Please make sure
@@ -38,6 +38,7 @@ const TopFold = () => {
         </div>
       </div>
       <div className="tf-right">
+        <div className="tf-r-bg-blob"></div>
         <div className="tf-right-diamond">
           <div className="tf-r-diamond-item absolute-center">
             <img
