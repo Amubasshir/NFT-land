@@ -1,0 +1,34 @@
+.trending-nfts {
+  padding: 64px 0px;
+  position: relative;
+  /* width: 100%; */
+}
+.slick-slide > div {
+  margin: 0 90px;
+}
+.slick-list {
+  margin: 0 -90px;
+}
+.tn-title {
+  font-size: 56px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 16px;
+  margin-bottom: 48px;
+}
+.tn-bg-blob {
+  height: 550px;
+  width: 550px;
+  background-color: var(--bg-blob);
+  filter: blur(160.58px);
+  position: absolute;
+  /* z-index: -99; */
+  left: 50%;
+  transform: translate(-50%);
+}
+.tn-btn {
+  margin-top: 36px;
+}
+/* .seemore-btn {
+  font-size: 14px;
+} */

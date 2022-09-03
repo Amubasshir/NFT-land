@@ -43,21 +43,21 @@ const TopFold = () => {
           <div className="tf-r-diamond-item absolute-center">
             <img
               className="tf-r-diamond-img"
-              src="https://openseauserdata.com/files/22284fa002c7612a875381ab66b22abf.gif"
+              src="https://lh3.googleusercontent.com/pa9MKeoPbY8OOIfcm6EVj1hhSdK--UD7YUts_34FXSjPzy912WIfsbIocQzUXTu9tdMaUXIWDbO98gbVEvZ-AX1plvdcReRnXHSqhQ=h400"
               alt="diamond-banner"
             />
           </div>
           <div className="tf-r-diamond-item absolute-center">
             <img
               className="tf-r-diamond-img"
-              src="https://nftaggregator.io/wp-content/uploads/2022/03/BBC061D3-0858-4058-A251-BDDC233D7A65.gif"
+              src="https://openseauserdata.com/files/543630193cf32ac09c0356e767d2891e.gif"
               alt="diamond-banner"
             />
           </div>
           <div className="tf-r-diamond-item absolute-center">
             <img
               className="tf-r-diamond-img"
-              src="https://c.tenor.com/1i16nMrNj88AAAAC/nft-marketing-nft-gorillas.gif"
+              src="https://openseauserdata.com/files/89e468471b05a0d3f49b0b14def8879a.gif"
               alt="diamond-banner"
             />
           </div>
