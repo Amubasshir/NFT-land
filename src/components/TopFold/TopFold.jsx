@@ -7,7 +7,11 @@ const TopFold = () => {
     <div className="topfold absolute-center">
       <div className="tf-left">
         <div className="tf-heading">
-          Discover Collect <br /> & Sell <br /> <span>Extraordinary</span>{' '}
+          <span className="heading-gradient">D</span>iscover Create{' '}
+          <span className="heading-gradient">C</span>ollect & Sell <br />{' '}
+          <span>
+            <span className="heading-gradient">E</span>xtraordinary
+          </span>{' '}
           <span className="heading-gradient">NFT...</span>
         </div>
         <div className="tf-description">

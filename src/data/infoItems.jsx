@@ -4,7 +4,7 @@ export const INFO_ITEMS = [
     icon: 'https://i.ibb.co/cCYGrmj/wallet.png',
     section_title: 'Set up your wallet',
     description:
-      'Once you have set up your wallet of choice, connect it to deepsea by clicking the wallet icon in the right corner. Learn about the wallet you support',
+      'Once you have set up your wallet of choice, connect it to deepsea by clicking the wallet icon in the right corner. Learn about the wallet you support.',
   },
   {
     id: 2,
