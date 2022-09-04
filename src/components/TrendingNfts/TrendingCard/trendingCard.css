@@ -24,9 +24,11 @@
   margin: 16px 0px;
 }
 .tc-user-logo {
-  height: 32px;
+  height: 24px;
+  width: 24px;
   border-radius: 8px;
   margin-right: 12px;
+  margin-top: 8px;
 }
 .tc-ui-left {
   display: flex;

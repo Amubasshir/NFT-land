@@ -11,7 +11,7 @@ const TrendingCard = (props) => {
           <div className="tc-user-info">
             <div className="tc-ui-left">
               <img
-                className="tc-user-logo"
+                className="tc-user-logo "
                 src={nft.user_photo}
                 alt={nft.user_name}
               />
