@@ -3,7 +3,7 @@ import './footer.css';
 const Footer = () => {
   return (
     <div className="footer absolute-center">
-      <span className="heading-gradient">© Mubasshir Ahmed 2022</span> 🔥
+      <span className="heading-gradient">© 2022 Mubasshir Ahmed</span> 🔥
     </div>
   );
 };
