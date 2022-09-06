@@ -12,8 +12,8 @@ const App = () => {
     <div className="max-width">
       <Header />
       <TopFold />
-      <Brands />
       <TrendingNfts />
+      <Brands />
       <InfoSection />
       <Footer />
     </div>
